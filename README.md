@@ -1,8 +1,8 @@
 # mDOS Roadmap
 
-This is the public roadmap of **mDOS** (Medusa Detector Operating System).
+This is the public roadmap of the Medusa Detector Operating System (mDOS).
 
-mDOS is the software layer that powers the measurement, processing, and control functionality of Medusa Radiometrics systems. More information about mDOS and its current functionality can be found in the official documentation:
+mDOS is the software that runs on Medusa gamma-ray spectrometers. It handles all measurement tasks automatically — collecting spectra, logging GPS positions, processing radionuclide concentrations — and makes the data accessible through a web interface you open in any browser. More information about mDOS and its current functionality can be found in the official documentation:
 
 👉 [mDOS V4.0 Manual](https://links.medusa-radiometrics.com/mdos-manual)
 
