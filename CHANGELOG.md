@@ -2,6 +2,11 @@
 
 All notable changes to mDOS are tracked in this file, per version.
 
+## [v4.0 - build 8] - 2026-07-29
+
+### Changed
+- Improved overall system performance.
+
 ## [v4.0 - build 7] - 2026-07-23
 
 ### Fixed
