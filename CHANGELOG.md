@@ -2,9 +2,12 @@
 
 All changes to mDOS are tracked in this file, per version.
 
-> **Release schedule:** newly manufactured detectors always ship with the latest build, but we only push a public software update to existing customers once per quarter. Builds marked **Public Release** are available to all customers; builds marked **Internal Build** are on newly built detectors only and will be folded into the next public release. 
+**Release schedule:** \
+newly manufactured detectors always ship with the latest build, but we only push a public software update to existing customers once per quarter. Builds marked **Public Release** are available to all customers; builds marked **Internal Build** are on newly built detectors only and will be folded into the next public release. 
 
-**Latest public release:** v4.0 - build 7
+#### **Latest public release:** v4.0 - build 7
+
+---
 
 ## [v4.0 - build 9] - 2026-08-10
 **Internal Build**
