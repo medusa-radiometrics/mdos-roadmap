@@ -9,6 +9,12 @@ newly manufactured detectors always ship with the latest build, but we only push
 
 ---
 
+## [v4.0 - build 10] - 2026-08-18
+**Internal build**
+
+### Added
+- Added support for external gps (NMEA) strings through RS232.
+
 ## [v4.0 - build 9] - 2026-08-10
 **Internal Build**
 
