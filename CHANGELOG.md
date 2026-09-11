@@ -9,6 +9,12 @@ newly manufactured detectors always ship with the latest build, but we only push
 
 ---
 
+## [v4.0 - build 11] - 2026-09-11
+**Internal build**
+
+### Fixed
+- Fixed a bug where unset settings were saved as empty strings in mDOS.
+
 ## [v4.0 - build 10] - 2026-08-18
 **Internal build**
 
