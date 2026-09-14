@@ -9,6 +9,15 @@ newly manufactured detectors always ship with the latest build, but we only push
 
 ---
 
+## [v4.0 - build 12] - 2026-09-14
+**Internal build**
+
+### Added
+- When downloading a project, toggles now reflect what's actually present. Items that aren't in the project, such as boundaries, samples or sample locations, are grayed out and marked "Not present in this project" instead of an active toggle. This prevents downloading empty files for data the project doesn't have.
+
+### Changed
+- Improved overall system performance. 
+
 ## [v4.0 - build 11] - 2026-09-11
 **Internal build**
 
