@@ -9,6 +9,12 @@ newly manufactured detectors always ship with the latest build, but we only push
 
 ---
 
+## [v4.0 - build 16] - 2026-10-12
+**Internal build**
+
+### Changed
+- Improved gSMS stability on mDOS V4.0
+
 ## [v4.0 - build 15] - 2026-10-09
 **Internal build**
 
