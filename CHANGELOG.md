@@ -9,6 +9,12 @@ newly manufactured detectors always ship with the latest build, but we only push
 
 ---
 
+## [v4.0 - build 19] - 2026-10-22
+**Internal build**
+
+### Fixed
+- Fixed an issue where new settings were sometimes ignored after a detector update.
+
 ## [v4.0 - build 16] - 2026-10-12
 **Internal build**
 
