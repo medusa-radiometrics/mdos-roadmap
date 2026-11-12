@@ -9,7 +9,7 @@ newly manufactured detectors always ship with the latest build. For existing cus
 
 ---
 
-## [v4.0 - build 21] - 2026-11-11
+## [v4.0 - build 21] - 2026-11-12
 **Public release**
 
 ### Added
